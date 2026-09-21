@@ -2,53 +2,164 @@
   "status": "Success",
   "data": [
     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+      "ar_name": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+      "name": "Glory be to Allah and praise be to Him, as numerous as His creation, as much as pleases Him, as weighty as His Throne, and as abundant as the ink of His words."  
     },
     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
-    },  
+      "ar_name": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ، فَتْحَهُ وَنَصْرَهُ وَنُورَهُ وَبَرَكَتَهُ وَهُدَاهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ وَشَرِّ مَا بَعْدَهُ.",
+      "name": "We have entered the morning, and all dominion belongs to Allah. All praise is for Allah. There is no god worthy of worship except Allah alone, without partner. His is the dominion and praise, and He is capable of all things. O Allah, I ask You for the good of this day: its victory, help, light, blessings, and guidance. I seek refuge in You from the evil within it and the evil that follows it."
+    },
     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+      "ar_name": "قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "name": "Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, and there is none comparable to Him."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ، وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "name": "Allah is sufficient for me. There is no god worthy of worship except Him. In Him I put my trust, and He is the Lord of the Mighty Throne."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "name": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm. He is the All-Hearing, the All-Knowing."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ",
+      "name": "O Allah, by You we enter the morning, by You we enter the evening, by You we live, and by You we die, and to You is the resurrection."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+      "name": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad (peace and blessings be upon him) as my Prophet."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ.",
+      "name": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the earth, Lord and Sovereign of everything. I bear witness that there is no god worthy of worship except You. I seek refuge in You from the evil of my own self, from the evil of Satan and his associating partners with You, and from committing evil against myself or bringing it upon another Muslim."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ.",
+      "name": "O Allah, You are my Lord. There is no god worthy of worship except You. You created me, and I am Your servant. I uphold Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings upon me and confess my sins. So forgive me, for none forgives sins except You."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "name": "There is no god worthy of worship except Allah alone, without partner. His is the dominion and all praise, and He is capable of all things."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+      "name": "O Allah, protect me from the Fire."  
     },
-     {
-      "ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
-      "name": "Al-Fatiha"  
+    {
+      "ar_name": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ. سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ",
+      "name": "Glory be to Allah, and praise be to Him. Glory be to Allah, the Magnificent, and praise be to Him."  
+    },
+    {
+      "ar_name": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+      "name": "I seek Allah's forgiveness and repent to Him."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لَا إِلَهَ إِلَّا أَنْتَ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ، وَالْفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ",
+      "name": "O Allah, grant me well-being in my body. O Allah, grant me well-being in my hearing. O Allah, grant me well-being in my sight. There is no god worthy of worship except You. O Allah, I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave. There is no god worthy of worship except You."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ. اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي. اللَّهُمَّ اسْتُرْ عَوْرَاتِي، وَآمِنْ رَوْعَاتِي. اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+      "name": "O Allah, I ask You for pardon and well-being in this world and the Hereafter. O Allah, I ask You for pardon and well-being in my religion, my worldly affairs, my family, and my wealth. O Allah, conceal my faults and calm my fears. O Allah, protect me from before me, behind me, from my right, from my left, and from above me. I seek refuge in Your greatness from being taken unaware from beneath me."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+      "name": "O Allah, I seek refuge in You from anxiety and sorrow, from incapacity and laziness, from cowardice and miserliness, and from the burden of debt and being overpowered by people."  
+    },
+    {
+      "ar_name": "أَصْبَحْنَا عَلَى فِطْرَةِ الْإِسْلَامِ، وَعَلَى كَلِمَةِ الْإِخْلَاصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا، وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "name": "We have entered the morning upon the natural way of Islam, the word of sincerity, the religion of our Prophet Muhammad (peace and blessings be upon him), and the way of our father Ibrahim, upright and submitting to Allah, who was not among those who associated partners with Allah."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ، وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتَكَ، وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللَّهُ لَا إِلَٰهَ إِلَّا أَنْتَ، وَحْدَكَ لَا شَرِيكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
+      "name": "O Allah, this morning I call upon You, the bearers of Your Throne, Your angels, and all Your creation to bear witness that You are Allah. There is no god worthy of worship except You alone, without partner, and that Muhammad is Your servant and Messenger."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ، فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+      "name": "O Allah, whatever blessing I or any of Your creation have received this morning is from You alone, without partner. So to You belongs all praise and gratitude."  
+    },
+    {
+      "ar_name": "يَا حَيُّ يَا قَيُّومُ، بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+      "name": "O Ever-Living, O Sustainer of all, by Your mercy I seek assistance. Set right all my affairs, and do not leave me to myself even for the blink of an eye."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+      "name": "O Allah, I ask You for beneficial knowledge, good and wholesome provision, and deeds that are accepted."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+      "name": "O Allah, I ask You for pardon and well-being in this world and the Hereafter."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، لَا إِلَٰهَ إِلَّا أَنْتَ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+      "name": "O Allah, Creator of the heavens and the earth, Knower of the unseen and the seen, there is no god worthy of worship except You, Lord and Sovereign of everything. I seek refuge in You from the evil of my own self, from Satan and his call to associating partners with You, and from committing evil against myself or bringing it upon a Muslim."  
+    },
+    {
+      "ar_name": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ، وَلَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ",
+      "name": "Glory be to Allah, all praise belongs to Allah, there is no god worthy of worship except Allah, and Allah is the Greatest."  
+    },
+    {
+      "ar_name": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "name": "There is no power and no strength except through Allah."  
+    },
+    {
+      "ar_name": "يَا مُقَلِّبَ الْقُلُوبِ، ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "name": "O Turner of hearts, keep my heart firm upon Your religion."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى",
+      "name": "O Allah, I ask You for guidance, piety, chastity, and self-sufficiency."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+      "name": "O Allah, I seek refuge in You from the disappearance of Your blessings, the loss of well-being You have granted, the suddenness of Your punishment, and all that displeases You."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+      "name": "O Allah, help me remember You, thank You, and worship You in the best manner."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الثَّبَاتَ فِي الْأَمْرِ، وَالْعَزِيمَةَ عَلَى الرُّشْدِ",
+      "name": "O Allah, I ask You for steadfastness in my affairs and determination to follow the right path. (This is the opening of a longer prophetic supplication asking Allah for gratitude for His blessings, excellence in worship, a sound heart, and protection from evil)."  
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوذُ بِكَ مِنَ النَّارِ",
+      "name": "O Allah, I ask You for Paradise, and I seek refuge in You from the Fire."
+    },
+    {
+      "ar_name": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا، وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً، إِنَّكَ أَنْتَ الْوَهَّابُ",
+      "name": "Our Lord, do not let our hearts deviate after You have guided us. Grant us mercy from Yourself. Surely, You alone are the Giver."
+    },
+    {
+      "ar_name": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ، إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "name": "There is no god worthy of worship except You. Glory be to You! Indeed, I have been among the wrongdoers."
+    },
+    {
+      "ar_name": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "name": "Allah is sufficient for us, and He is the best Disposer of affairs."
+    },
+    {
+      "ar_name": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "name": "My Lord, I am truly in need of whatever good You may send down to me."
+    },
+    {
+      "ar_name": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ، وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "name": "Our Lord, grant us from our spouses and offspring comfort to our eyes, and make us examples for the righteous."
+    },
+    {
+      "ar_name": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ.",
+      "name": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they come near me."
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ، وَالْجُنُونِ، وَالْجُذَامِ، وَمِنْ سَيِّئِ الْأَسْقَامِ",
+      "name": "O Allah, I seek refuge in You from vitiligo, insanity, leprosy, and severe diseases."
+    },
+    {
+      "ar_name": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+      "name": "O Allah, I have greatly wronged myself, and none forgives sins except You. So grant me forgiveness from Yourself and have mercy on me. Surely, You are the Most Forgiving, the Most Merciful."
     }
+   
+    
+    
   ]
 }
 
