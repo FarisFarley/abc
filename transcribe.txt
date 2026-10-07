@@ -10,42 +10,42 @@
     "time": "00:04.1",
     "end_time": "00:06.2",
     "arabic": "نور الزمان",
-    "english": "Light of the ages",
+    "english": "Light of the world",
     "urdu": "اے زمانے کے نور"
   },
   {
     "time": "00:06.9",
     "end_time": "00:09.4",
     "arabic": "طيب الوجود",
-    "english": "The purest and most noble of beings",
+    "english": "Pure and blessed",
     "urdu": "پاکیزہ ترین اور سب سے معزز ہستی"
   },
   {
     "time": "00:09.4",
     "end_time": "00:12.2",
     "arabic": "وبحر الأمان",
-    "english": "And the ocean of peace and security",
+    "english": "A source of peace and safety",
     "urdu": "اور امن و امان کا سمندر"
   },
   {
     "time": "00:12.2",
     "end_time": "00:14.6",
     "arabic": "بذكرك القلب",
-    "english": "With your remembrance, the heart",
+    "english": "By remembering you, the heart",
     "urdu": "آپ کے ذکر سے دل"
   },
   {
     "time": "00:15.3",
     "end_time": "00:18.1",
     "arabic": "يحظى الحنان",
-    "english": "Finds love and tenderness",
+    "english": "Finds love and comfort",
     "urdu": "محبت اور شفقت پاتا ہے"
   },
   {
     "time": "00:18.1",
     "end_time": "00:20.9",
     "arabic": "يا روح نفسي",
-    "english": "O soul of my being",
+    "english": "O joy of my soul",
     "urdu": "اے میری جان کی روح"
   },
   {
@@ -150,7 +150,7 @@
     "time": "01:02.5",
     "end_time": "01:05.6",
     "arabic": "وزال الغرور",
-    "english": "And pride and delusion disappeared",
+    "english": "And pride disappeared",
     "urdu": "اور غرور و تکبر دور ہو گیا"
   },
   {
@@ -164,7 +164,7 @@
     "time": "01:09.3",
     "end_time": "01:14.3",
     "arabic": "الصدور",
-    "english": "heart's affliction",
+    "english": "heart",
     "urdu": "دل کی بیماری کا علاج ہے"
   },
   {
