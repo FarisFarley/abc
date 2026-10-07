@@ -1,18 +1,338 @@
-(0:00) Oh, Tuhan yang tercipta, cahaya zaman 
-(0:06) Yang baik yang ada, dan laut yang aman 
-(0:11) Dalam ingatanku, hati saya mengalami kelebihan 
-(0:17) Oh, kelebihan diri saya, dan wangi dunia 
-(0:27) Oh, Tuhan yang tercipta, cahaya zaman 
-(0:31) Yang baik yang ada, dan laut yang aman 
-(0:38) Dalam ingatanku, hati saya mengalami kelebihan 
-(0:44) Oh, kelebihan diri saya, dan wangi dunia 
-(0:48) Oh, Tuhan yang tercipta, cahaya zaman 
-(0:53) Yang baik yang ada, dan laut yang aman 
-(0:55) Dalam ingatanku, hati saya mengalami kelebihan 
-(1:03) Oh, Tuhan yang tercipta, cahaya zaman 
-(1:18) Yang baik yang ada, dan laut yang aman 
-(1:26) Dalam ingatanku, hati saya mengalami kelebihan 
-(1:31) Oh, Tuhan yang tercipta, cahaya zaman 
-(2:01) Oh, Tuhan yang tercipta, cahaya zaman 
-(2:17) Yang baik yang ada, dan laut yang aman 
-(2:21) Yang baik yang ada, dan laut yang aman
+[
+  {
+    "time": "00:01.0",
+    "end_time": "00:03.5",
+    "arabic": "يا سيد الخلق",
+    "english": "O master of all creation",
+    "urdu": "اے تمام مخلوق کے سردار"
+  },
+  {
+    "time": "00:04.1",
+    "end_time": "00:06.2",
+    "arabic": "نور الزمان",
+    "english": "Light of the ages",
+    "urdu": "اے زمانے کے نور"
+  },
+  {
+    "time": "00:06.9",
+    "end_time": "00:09.4",
+    "arabic": "طيب الوجود",
+    "english": "The purest and most noble of beings",
+    "urdu": "پاکیزہ ترین اور سب سے معزز ہستی"
+  },
+  {
+    "time": "00:09.4",
+    "end_time": "00:12.2",
+    "arabic": "وبحر الأمان",
+    "english": "And the ocean of peace and security",
+    "urdu": "اور امن و امان کا سمندر"
+  },
+  {
+    "time": "00:12.2",
+    "end_time": "00:14.6",
+    "arabic": "بذكرك القلب",
+    "english": "With your remembrance, the heart",
+    "urdu": "آپ کے ذکر سے دل"
+  },
+  {
+    "time": "00:15.3",
+    "end_time": "00:18.1",
+    "arabic": "يحظى الحنان",
+    "english": "Finds love and tenderness",
+    "urdu": "محبت اور شفقت پاتا ہے"
+  },
+  {
+    "time": "00:18.1",
+    "end_time": "00:20.9",
+    "arabic": "يا روح نفسي",
+    "english": "O soul of my being",
+    "urdu": "اے میری جان کی روح"
+  },
+  {
+    "time": "00:20.9",
+    "end_time": "00:22.6",
+    "arabic": "وعطر الجنان",
+    "english": "And fragrance of Paradise",
+    "urdu": "اور جنت کی خوشبو"
+  },
+  {
+    "time": "00:26.8",
+    "end_time": "00:28.9",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "00:29.6",
+    "end_time": "00:30.8",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "00:32.5",
+    "end_time": "00:35.2",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "00:35.2",
+    "end_time": "00:36.5",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  },
+  {
+    "time": "00:38.0",
+    "end_time": "00:40.1",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "00:40.8",
+    "end_time": "00:42.1",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "00:43.6",
+    "end_time": "00:46.4",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "00:46.4",
+    "end_time": "00:47.4",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  },
+  {
+    "time": "00:48.8",
+    "end_time": "00:51.3",
+    "arabic": "يا شمس هدى",
+    "english": "O sun of guidance",
+    "urdu": "اے ہدایت کے آفتاب"
+  },
+  {
+    "time": "00:51.3",
+    "end_time": "00:53.9",
+    "arabic": "وبدر السرور",
+    "english": "And full moon of joy",
+    "urdu": "اور خوشی کے ماہِ کامل"
+  },
+  {
+    "time": "00:54.4",
+    "end_time": "00:57.2",
+    "arabic": "جئت للدنيا",
+    "english": "You came into this world",
+    "urdu": "آپ دنیا میں تشریف لائے"
+  },
+  {
+    "time": "00:57.2",
+    "end_time": "00:59.6",
+    "arabic": "بالحق النور",
+    "english": "With the light of truth",
+    "urdu": "حق کے نور کے ساتھ"
+  },
+  {
+    "time": "00:59.6",
+    "end_time": "01:02.5",
+    "arabic": "فارتاح قلبي",
+    "english": "And my heart found peace",
+    "urdu": "تو میرے دل کو سکون مل گیا"
+  },
+  {
+    "time": "01:02.5",
+    "end_time": "01:05.6",
+    "arabic": "وزال الغرور",
+    "english": "And pride and delusion disappeared",
+    "urdu": "اور غرور و تکبر دور ہو گیا"
+  },
+  {
+    "time": "01:05.6",
+    "end_time": "01:09.3",
+    "arabic": "ذكرك داوٍ لكل",
+    "english": "Your remembrance is a cure for every",
+    "urdu": "آپ کا ذکر ہر"
+  },
+  {
+    "time": "01:09.3",
+    "end_time": "01:14.3",
+    "arabic": "الصدور",
+    "english": "heart's affliction",
+    "urdu": "دل کی بیماری کا علاج ہے"
+  },
+  {
+    "time": "01:14.3",
+    "end_time": "01:17.1",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "01:17.1",
+    "end_time": "01:18.2",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "01:19.9",
+    "end_time": "01:22.6",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "01:22.6",
+    "end_time": "01:23.7",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  },
+  {
+    "time": "01:25.4",
+    "end_time": "01:27.7",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "01:28.3",
+    "end_time": "01:29.5",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "01:31.1",
+    "end_time": "01:33.8",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "01:33.8",
+    "end_time": "01:34.9",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  },
+  {
+    "time": "01:48.0",
+    "end_time": "01:50.2",
+    "arabic": "عيني تبكي",
+    "english": "My eyes weep",
+    "urdu": "میری آنکھیں رو رہی ہیں"
+  },
+  {
+    "time": "01:50.2",
+    "end_time": "01:53.0",
+    "arabic": "شوقا إليه",
+    "english": "Longing to see him",
+    "urdu": "ان کی دید کے شوق میں"
+  },
+  {
+    "time": "01:53.0",
+    "end_time": "01:55.8",
+    "arabic": "والدمع يجري",
+    "english": "And my tears flow",
+    "urdu": "اور آنسو بہتے ہیں"
+  },
+  {
+    "time": "01:55.8",
+    "end_time": "01:58.3",
+    "arabic": "حبا عليه",
+    "english": "Out of love for him",
+    "urdu": "ان کی محبت میں"
+  },
+  {
+    "time": "01:58.3",
+    "end_time": "02:00.6",
+    "arabic": "أشتاق أن",
+    "english": "I long to",
+    "urdu": "میری آرزو ہے کہ"
+  },
+  {
+    "time": "02:01.4",
+    "end_time": "02:04.1",
+    "arabic": "أفدي فداء",
+    "english": "Give myself in sacrifice",
+    "urdu": "میں خود کو قربان کر دوں"
+  },
+  {
+    "time": "02:04.1",
+    "end_time": "02:07.0",
+    "arabic": "في الحشر أرجو",
+    "english": "On the Day of Resurrection, I hope",
+    "urdu": "روزِ حشر میری امید ہے"
+  },
+  {
+    "time": "02:07.0",
+    "end_time": "02:12.9",
+    "arabic": "أن تلقني",
+    "english": "That I may meet you",
+    "urdu": "کہ میں آپ سے ملاقات کر سکوں"
+  },
+  {
+    "time": "02:12.9",
+    "end_time": "02:15.7",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "02:15.7",
+    "end_time": "02:16.7",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "02:18.5",
+    "end_time": "02:21.3",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "02:21.3",
+    "end_time": "02:22.3",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  },
+  {
+    "time": "02:24.0",
+    "end_time": "02:26.3",
+    "arabic": "صلوا عليه",
+    "english": "Send blessings upon him",
+    "urdu": "ان پر درود بھیجو"
+  },
+  {
+    "time": "02:26.9",
+    "end_time": "02:27.9",
+    "arabic": "نور القلب",
+    "english": "The light of the heart",
+    "urdu": "دل کا نور"
+  },
+  {
+    "time": "02:29.7",
+    "end_time": "02:32.4",
+    "arabic": "هو الحبيب",
+    "english": "He is the beloved",
+    "urdu": "وہ محبوب ہیں"
+  },
+  {
+    "time": "02:32.4",
+    "end_time": "02:33.5",
+    "arabic": "خير الرب",
+    "english": "The beloved of the Lord",
+    "urdu": "رب کے محبوب"
+  }
+]
