@@ -224,7 +224,7 @@
     "urdu": "رب کے محبوب"
   },
   {
-    "start_time": "01:48.0",
+    "start_time": "01:46.0",
     "end_time": "01:50.2",
     "arabic": "عيني تبكي",
     "english": "My eyes weep",
