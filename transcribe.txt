@@ -330,7 +330,7 @@
   },
   {
     "start_time": "02:32.4",
-    "end_time": "02:33.5",
+    "end_time": "02:35.5",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
