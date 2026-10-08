@@ -1,14 +1,14 @@
 [
   {
     "start_time": "00:01.0",
-    "end_time": "00:03.5",
+    "end_time": "00:04.0",
     "arabic": "يا سيد الخلق",
     "english": "O master of all creation",
     "urdu": "اے تمام مخلوق کے سردار"
   },
   {
     "start_time": "00:04.0",
-    "end_time": "00:06.2",
+    "end_time": "00:06.3",
     "arabic": "نور الزمان",
     "english": "Light of the world",
     "urdu": "اے زمانے کے نور"
@@ -29,7 +29,7 @@
   },
   {
     "start_time": "00:12.2",
-    "end_time": "00:14.6",
+    "end_time": "00:15.3",
     "arabic": "بذكرك القلب",
     "english": "By remembering you, the heart",
     "urdu": "آپ کے ذکر سے دل"
@@ -57,14 +57,14 @@
   },
   {
     "start_time": "00:26.8",
-    "end_time": "00:28.9",
+    "end_time": "00:29.6",
     "arabic": "صلوا عليه",
     "english": "Send blessings upon him",
     "urdu": "ان پر درود بھیجو"
   },
   {
     "start_time": "00:29.6",
-    "end_time": "00:30.8",
+    "end_time": "00:32.5",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
@@ -78,21 +78,21 @@
   },
   {
     "start_time": "00:35.2",
-    "end_time": "00:36.5",
+    "end_time": "00:38.0",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
   },
   {
     "start_time": "00:38.0",
-    "end_time": "00:40.1",
+    "end_time": "00:40.8",
     "arabic": "صلوا عليه",
     "english": "Send blessings upon him",
     "urdu": "ان پر درود بھیجو"
   },
   {
     "start_time": "00:40.8",
-    "end_time": "00:42.1",
+    "end_time": "00:43.6",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
@@ -106,7 +106,7 @@
   },
   {
     "start_time": "00:46.4",
-    "end_time": "00:47.4",
+    "end_time": "00:48.8",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
@@ -120,7 +120,7 @@
   },
   {
     "start_time": "00:51.3",
-    "end_time": "00:53.9",
+    "end_time": "00:54.4",
     "arabic": "وبدر السرور",
     "english": "And full moon of joy",
     "urdu": "اور خوشی کے ماہِ کامل"
@@ -176,7 +176,7 @@
   },
   {
     "start_time": "01:17.1",
-    "end_time": "01:18.2",
+    "end_time": "01:19.9",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
@@ -190,21 +190,21 @@
   },
   {
     "start_time": "01:22.6",
-    "end_time": "01:23.7",
+    "end_time": "01:25.4",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
   },
   {
     "start_time": "01:25.4",
-    "end_time": "01:27.7",
+    "end_time": "01:29.5",
     "arabic": "صلوا عليه",
     "english": "Send blessings upon him",
     "urdu": "ان پر درود بھیجو"
   },
   {
     "start_time": "01:28.3",
-    "end_time": "01:29.5",
+    "end_time": "01:33.8",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
