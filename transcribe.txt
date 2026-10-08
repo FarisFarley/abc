@@ -190,21 +190,21 @@
   },
   {
     "start_time": "01:22.6",
-    "end_time": "01:23.7",
+    "end_time": "01:25.4",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
   },
   {
     "start_time": "01:25.4",
-    "end_time": "01:27.7",
+    "end_time": "01:28.3",
     "arabic": "صلوا عليه",
     "english": "Send blessings upon him",
     "urdu": "ان پر درود بھیجو"
   },
   {
     "start_time": "01:28.3",
-    "end_time": "01:29.5",
+    "end_time": "01:31.1",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
@@ -253,7 +253,7 @@
   },
   {
     "start_time": "01:58.3",
-    "end_time": "02:00.6",
+    "end_time": "02:01.4",
     "arabic": "أشتاق أن",
     "english": "I long to",
     "urdu": "میری آرزو ہے کہ"
