@@ -323,7 +323,7 @@
   },
   {
     "start_time": "02:29.7",
-    "end_time": "02:33.5",
+    "end_time": "02:32.4",
     "arabic": "هو الحبيب",
     "english": "He is the beloved",
     "urdu": "وہ محبوب ہیں"
