@@ -288,7 +288,7 @@
   },
   {
     "start_time": "02:15.7",
-    "end_time": "02:16.7",
+    "end_time": "02:18.5",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
@@ -302,7 +302,7 @@
   },
   {
     "start_time": "02:21.3",
-    "end_time": "02:22.3",
+    "end_time": "02:24.0",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
@@ -316,14 +316,14 @@
   },
   {
     "start_time": "02:26.9",
-    "end_time": "02:27.9",
+    "end_time": "02:29.7",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
   },
   {
     "start_time": "02:29.7",
-    "end_time": "02:32.4",
+    "end_time": "02:33.5",
     "arabic": "هو الحبيب",
     "english": "He is the beloved",
     "urdu": "وہ محبوب ہیں"
