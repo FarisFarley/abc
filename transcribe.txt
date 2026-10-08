@@ -7,14 +7,14 @@
     "urdu": "اے تمام مخلوق کے سردار"
   },
   {
-    "start_time": "00:04.1",
+    "start_time": "00:04.0",
     "end_time": "00:06.2",
     "arabic": "نور الزمان",
     "english": "Light of the world",
     "urdu": "اے زمانے کے نور"
   },
   {
-    "start_time": "00:06.9",
+    "start_time": "00:06.3",
     "end_time": "00:09.4",
     "arabic": "طيب الوجود",
     "english": "Pure and blessed",
