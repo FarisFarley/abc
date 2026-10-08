@@ -190,21 +190,21 @@
   },
   {
     "start_time": "01:22.6",
-    "end_time": "01:25.4",
+    "end_time": "01:23.7",
     "arabic": "خير الرب",
     "english": "The beloved of the Lord",
     "urdu": "رب کے محبوب"
   },
   {
     "start_time": "01:25.4",
-    "end_time": "01:29.5",
+    "end_time": "01:27.7",
     "arabic": "صلوا عليه",
     "english": "Send blessings upon him",
     "urdu": "ان پر درود بھیجو"
   },
   {
     "start_time": "01:28.3",
-    "end_time": "01:33.8",
+    "end_time": "01:29.5",
     "arabic": "نور القلب",
     "english": "The light of the heart",
     "urdu": "دل کا نور"
