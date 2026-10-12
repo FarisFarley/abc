@@ -1,198 +1,200 @@
+```json
 [
   {
     "start_time": "00:10.8",
     "end_time": "00:16.3",
     "arabic": "نَعَمْ إِنَّهَا قِصَّةٌ كَالْيَقِينِ",
-    "english": "Yes, it is a story as certain as certainty itself",
-    "urdu": "ہاں، یہ ایک کہانی ہے جو یقین کی مانند ہے"
+    "english": "Yes, indeed, it is a story as certain as the truth.",
+    "urdu": "ہاں، بے شک یہ ایک ایسی داستان ہے جس کی سچائی یقینی ہے۔"
   },
   {
     "start_time": "00:16.3",
     "end_time": "00:21.7",
     "arabic": "أَيَا مُصْطَفَى لَمْ تَرَكَ الْعُيُون",
-    "english": "O Chosen One, my eyes never saw you",
-    "urdu": "اے مصطفیٰ، میری آنکھوں نے آپ کو نہیں دیکھا"
+    "english": "O Mustafa, these eyes never had the blessing of seeing you.",
+    "urdu": "اے مصطفیٰ ﷺ، ان آنکھوں کو آپ کی زیارت نصیب نہ ہوئی۔"
   },
   {
     "start_time": "00:21.7",
     "end_time": "00:27.1",
     "arabic": "وَلَمْ أَحْيَ فِي عَهْدِكَ الْمُسْتَنِير",
-    "english": "Nor did I live in your enlightened era",
-    "urdu": "اور نہ میں آپ کے روشن دور میں جیا"
+    "english": "Nor did I live in the radiant era of your time.",
+    "urdu": "اور نہ ہی مجھے آپ کے روشن دور میں زندگی گزارنے کا موقع ملا۔"
   },
   {
     "start_time": "00:27.1",
     "end_time": "00:32.8",
     "arabic": "وَلَمْ أَغْدُ يَوْمًا رَفِيقَ الْمَسِير",
-    "english": "Nor did I ever become a companion on your journey",
-    "urdu": "اور نہ میں کبھی آپ کے سفر کا ساتھی بنا"
+    "english": "Nor did I ever have the honor of walking alongside you.",
+    "urdu": "اور نہ ہی کبھی مجھے آپ کے ساتھ سفر کرنے کا شرف حاصل ہوا۔"
   },
   {
     "start_time": "00:32.8",
     "end_time": "00:38.1",
     "arabic": "وَلَمْ أَلْقَ فِي بَدْرِنَا الْمُشْرِكِينَ",
-    "english": "Nor did I face the polytheists at Badr",
-    "urdu": "اور نہ میں نے بدر میں مشرکوں کا سامنا کیا"
+    "english": "Nor did I face the polytheists with you at the Battle of Badr.",
+    "urdu": "اور نہ ہی میں نے غزوۂ بدر میں آپ کے ساتھ مشرکین کا مقابلہ کیا۔"
   },
   {
     "start_time": "00:38.1",
     "end_time": "00:43.6",
     "arabic": "وَمَا كُنْتُ مِنْ صَحْبِكَ الْأَوَّلِين",
-    "english": "And I was not among your first companions",
-    "urdu": "اور نہ میں آپ کے پہلے ساتھیوں میں شامل تھا"
+    "english": "Nor was I among your earliest companions.",
+    "urdu": "اور نہ ہی میں آپ کے اولین صحابہ میں شامل تھا۔"
   },
   {
     "start_time": "00:43.6",
     "end_time": "00:48.9",
     "arabic": "وَلَمْ أَحْظَ مِنْ هِجْرَةٍ بِالنَّصِيبِ",
-    "english": "Nor did I get a share of the migration",
-    "urdu": "اور نہ مجھے ہجرت میں کوئی حصہ ملا"
+    "english": "Nor was I blessed with a share in the Hijrah.",
+    "urdu": "اور نہ ہی مجھے ہجرت میں شرکت کا نصیب حاصل ہوا۔"
   },
   {
     "start_time": "00:48.9",
     "end_time": "00:54.6",
     "arabic": "وَلَمْ أَمْشِ فِي زُمْرَةٍ لِلْحَبِيبِ",
-    "english": "Nor did I walk in a group with the beloved",
-    "urdu": "اور نہ میں محبوب کے ساتھ کسی قافلے میں چلا"
+    "english": "Nor did I walk among the companions of the Beloved.",
+    "urdu": "اور نہ ہی میں محبوب ﷺ کے ساتھیوں کے قافلے میں چل سکا۔"
   },
   {
     "start_time": "00:54.6",
     "end_time": "00:59.7",
     "arabic": "عَلَيْكَ صَلَاةٌ وَأَزْكَى السَّلَامِ",
-    "english": "Upon you be blessings and the purest of peace",
-    "urdu": "آپ پر درود اور سب سے پاکیزہ سلام ہو"
+    "english": "May blessings and the purest peace be upon you.",
+    "urdu": "آپ پر درود و سلام اور پاکیزہ ترین سلامتی ہو۔"
   },
   {
     "start_time": "00:59.8",
     "end_time": "01:05.4",
     "arabic": "حَبِيبِي مُحَمَّدْ رَسُولَ الْأَنَام",
-    "english": "My beloved Muhammad, Messenger of all mankind",
-    "urdu": "میرے محبوب محمد، تمام انسانیت کے رسول"
+    "english": "My beloved Muhammad, the Messenger to all humankind.",
+    "urdu": "میرے محبوب محمد ﷺ، تمام انسانوں کے رسول۔"
   },
   {
     "start_time": "01:05.5",
     "end_time": "01:10.8",
     "arabic": "فَقَلْبِي أَسِيرٌ لِذَاكَ الْمَقَام",
-    "english": "My heart is a captive of that noble station",
-    "urdu": "میرا دل اس بلند مقام کا اسیر ہے"
+    "english": "For my heart is captivated by that blessed place and station.",
+    "urdu": "کیونکہ میرا دل اس مقدس مقام کا اسیر ہے۔"
   },
   {
     "start_time": "01:10.8",
     "end_time": "01:16.2",
     "arabic": "وَرُوحِي فِدَاءٌ لِتِلْكَ الدِّيَار",
-    "english": "And my soul is a ransom for those lands",
-    "urdu": "اور میری روح ان سرزمینوں پر قربان ہے"
+    "english": "And my soul would gladly be sacrificed for those sacred lands.",
+    "urdu": "اور میری روح ان مقدس سرزمینوں پر قربان ہو۔"
   },
   {
     "start_time": "01:16.2",
     "end_time": "01:21.4",
     "arabic": "وَأَهْوَى الْخُطَى فِي دُرُوبِ الْهُدَى",
-    "english": "I love the footsteps on the paths of guidance",
-    "urdu": "مجھے ہدایت کے راستوں پر چلنے والے قدموں سے محبت ہے"
+    "english": "I cherish every step along the paths of guidance.",
+    "urdu": "مجھے ہدایت کی راہوں پر اٹھنے والا ہر قدم عزیز ہے۔"
   },
   {
     "start_time": "01:21.4",
     "end_time": "01:27.1",
     "arabic": "وَأَهْوَى الْقَمَرْ فِي بَهَاءِ الْجَبِين",
-    "english": "And I love the moon shining on that radiant forehead",
-    "urdu": "اور مجھے اس چاند سے محبت ہے جو اس روشن پیشانی پر چمکتا ہے"
+    "english": "And I adore the moonlike radiance of your noble forehead.",
+    "urdu": "اور مجھے آپ کی پیشانی کا چاند جیسا نور بے حد عزیز ہے۔"
   },
   {
     "start_time": "01:27.1",
     "end_time": "01:32.5",
     "arabic": "وَمَا كُنْتُ شَهْمًا كَسَيْفِ الْإِلَهِ",
-    "english": "I was not brave like the sword of Allah",
-    "urdu": "میں اللہ کی تلوار کی طرح بہادر نہ تھا"
+    "english": "Nor was I a brave warrior like the Sword of Allah.",
+    "urdu": "اور نہ ہی میں سیف اللہ کی طرح بہادر مجاہد تھا۔"
   },
   {
     "start_time": "01:32.5",
     "end_time": "01:38.0",
     "arabic": "وَلَمْ أَخْدُمِ الْمُصْطَفَى فِي صِبَايَ",
-    "english": "Nor did I serve the Chosen One in my youth",
-    "urdu": "اور نہ میں نے اپنی جوانی میں مصطفیٰ کی خدمت کی"
+    "english": "Nor did I have the honor of serving Mustafa in my youth.",
+    "urdu": "اور نہ ہی مجھے اپنی جوانی میں مصطفیٰ ﷺ کی خدمت کا شرف ملا۔"
   },
   {
     "start_time": "01:38.1",
     "end_time": "01:43.4",
     "arabic": "وَمَا كُنْتُ يَوْمًا بِلَالَ الْأَذَانْ",
-    "english": "Nor was I ever Bilal of the call to prayer",
-    "urdu": "اور نہ میں کبھی اذان دینے والا بلال بنا"
+    "english": "Nor was I ever Bilal, the caller to prayer.",
+    "urdu": "اور نہ ہی میں کبھی اذان دینے والے بلالؓ جیسا تھا۔"
   },
   {
     "start_time": "01:43.4",
     "end_time": "01:49.2",
     "arabic": "وَلَا فِي ثَبَاتِي كَأَهْلِ الْيَمِين",
-    "english": "Nor in my steadfastness was I like the people of the right hand",
-    "urdu": "اور نہ اپنی ثابت قدمی میں میں دائیں ہاتھ والوں جیسا تھا"
+    "english": "Nor do I possess the steadfastness of the righteous and faithful.",
+    "urdu": "اور نہ ہی میرے اندر نیکوکاروں اور اہلِ ایمان جیسی ثابت قدمی ہے۔"
   },
   {
     "start_time": "01:49.2",
     "end_time": "01:54.4",
     "arabic": "عَلَيْكَ صَلَاةٌ وَأَزْكَى السَّلَامِ",
-    "english": "Upon you be blessings and the purest of peace",
-    "urdu": "آپ پر درود اور سب سے پاکیزہ سلام ہو"
+    "english": "May blessings and the purest peace be upon you.",
+    "urdu": "آپ پر درود و سلام اور پاکیزہ ترین سلامتی ہو۔"
   },
   {
     "start_time": "01:54.4",
     "end_time": "02:00.3",
     "arabic": "حَبِيبِي مُحَمَّدْ رَسُولَ الْأَنَام",
-    "english": "My beloved Muhammad, Messenger of all mankind",
-    "urdu": "میرے محبوب محمد، تمام انسانیت کے رسول"
+    "english": "My beloved Muhammad, the Messenger to all humankind.",
+    "urdu": "میرے محبوب محمد ﷺ، تمام انسانوں کے رسول۔"
   },
   {
     "start_time": "02:10.9",
     "end_time": "02:16.2",
     "arabic": "وَلَكِنْ وَحَقِّ الإِلَهِ الْعَظِيمِ",
-    "english": "But by the right of the Almighty God",
-    "urdu": "لیکن عظیم اللہ کی قسم"
+    "english": "But by the truth of the Almighty God,",
+    "urdu": "لیکن خدائے بزرگ و برتر کی قسم،"
   },
   {
     "start_time": "02:16.3",
     "end_time": "02:21.7",
     "arabic": "هَوَاكُمْ بِقَلْبِي مَتِينٌ مُقِيم",
-    "english": "Your love in my heart is firm and abiding",
-    "urdu": "آپ کی محبت میرے دل میں مضبوط اور قائم ہے"
+    "english": "My love for you is deep-rooted and forever lives in my heart.",
+    "urdu": "آپ کی محبت میرے دل میں گہری جڑیں رکھتی ہے اور ہمیشہ قائم ہے۔"
   },
   {
     "start_time": "02:21.7",
     "end_time": "02:27.3",
     "arabic": "وَلَسْتُ كَصِدِّيقِنَا فِي الْمَسِيرِ",
-    "english": "Though I am not like our Siddiq on the journey",
-    "urdu": "حالانکہ میں سفر میں ہمارے صدیق جیسا نہیں ہوں"
+    "english": "I am not like our truthful Abu Bakr in his noble journey.",
+    "urdu": "میں اپنے صدیق حضرت ابوبکرؓ جیسا نہیں ہوں جو اس عظیم سفر میں ان کے ہم مرتبہ ہوں۔"
   },
   {
     "start_time": "02:27.3",
     "end_time": "02:32.6",
     "arabic": "وَلَا كَالْعُمَرْ أَوْ عَلِيٍّ أَمِيرِ",
-    "english": "Nor like Umar or Ali the leader",
-    "urdu": "اور نہ عمر یا علی جیسا سردار"
+    "english": "Nor am I like Umar or the noble leader Ali.",
+    "urdu": "اور نہ ہی میں حضرت عمرؓ یا عظیم رہنما حضرت علیؓ جیسا ہوں۔"
   },
   {
     "start_time": "02:32.7",
     "end_time": "02:38.0",
     "arabic": "أَنَا ذَرَّةٌ فِي تُرَابِ الرِّجَال",
-    "english": "I am but a speck in the dust of these men",
-    "urdu": "میں ان مردوں کی مٹی میں ایک ذرہ ہوں"
+    "english": "I am but a tiny speck in the dust beneath these great men.",
+    "urdu": "میں ان عظیم ہستیوں کے قدموں کی خاک میں ایک ذرّہ برابر ہوں۔"
   },
   {
     "start_time": "02:38.1",
     "end_time": "02:43.7",
     "arabic": "وَلَكِنْ أَنَا عَاشِقٌ لِلرَّسُول",
-    "english": "But I am a lover of the Messenger",
-    "urdu": "لیکن میں رسول کا عاشق ہوں"
+    "english": "But I am deeply in love with the Messenger.",
+    "urdu": "لیکن میں رسول اللہ ﷺ کا سچا عاشق ہوں۔"
   },
   {
     "start_time": "02:43.7",
     "end_time": "02:49.2",
     "arabic": "عَلَيْكَ صَلَاةٌ وَأَزْكَى السَّلَام",
-    "english": "Upon you be blessings and the purest of peace",
-    "urdu": "آپ پر درود اور سب سے پاکیزہ سلام ہو"
+    "english": "May blessings and the purest peace be upon you.",
+    "urdu": "آپ پر درود و سلام اور پاکیزہ ترین سلامتی ہو۔"
   },
   {
     "start_time": "02:49.2",
     "end_time": "02:55.0",
     "arabic": "حَبِيبِي مُحَمَّدْ رَسُولَ الْأَنَام",
-    "english": "My beloved Muhammad, Messenger of all mankind",
-    "urdu": "میرے محبوب محمد، تمام انسانیت کے رسول"
+    "english": "My beloved Muhammad, the Messenger to all humankind.",
+    "urdu": "میرے محبوب محمد ﷺ، تمام انسانوں کے رسول۔"
   }
 ]
+```
