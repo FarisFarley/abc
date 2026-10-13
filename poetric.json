@@ -1,188 +1,436 @@
 [
   {
     "start_time": "00:08.6",
+    "end_time": "00:12.1",
+    "arabic": "دع لذيذ الكرى وانتبه ثم صل",
+    "english": "Leave your peaceful sleep, wake up, and pray.",
+    "urdu": "آرام دہ نیند چھوڑو، بیدار ہو جاؤ اور نماز پڑھو۔"
+  },
+  {
+    "start_time": "00:12.1",
     "end_time": "00:16.1",
-    "arabic": "دع لذيذ الكرى وانتبه ثم صل واستقم في الدجى وابتهل ثم قل",
-    "english": "Leave your comfortable sleep and wake up. Pray, stand in the quiet night, raise your hands in prayer, and say:"
+    "arabic": "واستقم في الدجى وابتهل ثم قل",
+    "english": "Stand devoted in the quiet night, pray earnestly, and then say:",
+    "urdu": "رات کی خاموشی میں عبادت کے لیے کھڑے ہو، عاجزی سے دعا کرو، پھر کہو:"
   },
   {
     "start_time": "00:16.1",
+    "end_time": "00:20.1",
+    "arabic": "يا مجيب الدعا يا عظيم الجلال",
+    "english": "O Answerer of prayers, O Lord of great majesty!",
+    "urdu": "اے دعاؤں کو قبول فرمانے والے، اے عظمت و جلال والے رب!"
+  },
+  {
+    "start_time": "00:20.1",
     "end_time": "00:23.7",
-    "arabic": "يا مجيب الدعا يا عظيم الجلال يا لطيف بنا دايم لم يزل",
-    "english": "O One who answers our prayers, O Lord of great majesty, You have always been kind and gentle to us."
+    "arabic": "يا لطيف بنا دايم لم يزل",
+    "english": "You have always been gentle and kind to us.",
+    "urdu": "تو ہمیشہ ہم پر مہربان اور لطف فرمانے والا رہا ہے۔"
   },
   {
     "start_time": "00:23.7",
+    "end_time": "00:27.1",
+    "arabic": "دع لذيذ الكرى وانتبه ثم صل",
+    "english": "Leave your peaceful sleep, wake up, and pray.",
+    "urdu": "آرام دہ نیند چھوڑو، بیدار ہو جاؤ اور نماز پڑھو۔"
+  },
+  {
+    "start_time": "00:27.1",
     "end_time": "00:31.0",
-    "arabic": "دع لذيذ الكرى وانتبه ثم صل واستقم في الدجى وابتهل ثم قل",
-    "english": "Leave your comfortable sleep and wake up. Pray, stand in the quiet night, raise your hands in prayer, and say:"
+    "arabic": "واستقم في الدجى وابتهل ثم قل",
+    "english": "Stand devoted in the quiet night, pray earnestly, and then say:",
+    "urdu": "رات کی خاموشی میں عبادت کے لیے کھڑے ہو، عاجزی سے دعا کرو، پھر کہو:"
   },
   {
     "start_time": "00:31.0",
+    "end_time": "00:35.1",
+    "arabic": "يا مجيب الدعا يا عظيم الجلال",
+    "english": "O Answerer of prayers, O Lord of great majesty!",
+    "urdu": "اے دعاؤں کو قبول فرمانے والے، اے عظمت و جلال والے رب!"
+  },
+  {
+    "start_time": "00:35.1",
     "end_time": "00:38.7",
-    "arabic": "يا مجيب الدعا يا عظيم الجلال يا لطيف بنا دايم لم يزل",
-    "english": "O One who answers our prayers, O Lord of great majesty, You have always been kind and gentle to us."
+    "arabic": "يا لطيف بنا دايم لم يزل",
+    "english": "You have always been gentle and kind to us.",
+    "urdu": "تو ہمیشہ ہم پر مہربان اور لطف فرمانے والا رہا ہے۔"
   },
   {
     "start_time": "00:38.7",
+    "end_time": "00:42.1",
+    "arabic": "واحد ماجد قابض باسط",
+    "english": "You are the One, the Most Glorious, who withholds and gives in abundance.",
+    "urdu": "تو یکتا اور بزرگی والا ہے، جس کے اختیار میں روکنا بھی ہے اور فراخی عطا کرنا بھی۔"
+  },
+  {
+    "start_time": "00:42.1",
     "end_time": "00:46.2",
-    "arabic": "واحد ماجد قابض باسط حاكم عادل كل ما شا فعل",
-    "english": "You are the One and Most Glorious, the One who gives and withholds. You are the Just Ruler who does whatever You will."
+    "arabic": "حاكم عادل كل ما شا فعل",
+    "english": "You are the Just Ruler; whatever You will, You do.",
+    "urdu": "تو انصاف کرنے والا حاکم ہے؛ جو چاہتا ہے، کرتا ہے۔"
   },
   {
     "start_time": "00:46.2",
+    "end_time": "00:49.5",
+    "arabic": "ظاهر باطن حافظ رافع",
+    "english": "You are the Manifest and the Hidden, the Guardian and the One who raises.",
+    "urdu": "تو ظاہر بھی ہے اور باطن بھی، حفاظت کرنے والا اور بلند کرنے والا بھی۔"
+  },
+  {
+    "start_time": "00:49.5",
     "end_time": "00:53.6",
-    "arabic": "ظاهر باطن حافظ رافع سامع عالم ما بحكمه ميل",
-    "english": "You are seen and unseen, our Protector and the One who raises us. You hear and know everything, and Your judgment is always just."
+    "arabic": "سامع عالم ما بحكمه ميل",
+    "english": "You hear and know all things, and Your judgment never strays from justice.",
+    "urdu": "تو سب کچھ سنتا اور جانتا ہے، اور تیرا فیصلہ کبھی انصاف سے نہیں ہٹتا۔"
   },
   {
     "start_time": "00:53.6",
-    "end_time": "01:01.4",
-    "arabic": "أول آخر ليس له منتهى جل ما له شريك ولا له مثل",
-    "english": "You are the First and the Last, with no end. You are far above all things; You have no partner and nothing is like You."
+    "end_time": "00:57.0",
+    "arabic": "أول آخر ليس له منتهى",
+    "english": "You are the First and the Last, with no end.",
+    "urdu": "تو ہی اول اور آخر ہے، تیری کوئی انتہا نہیں۔"
   },
   {
-    "start_time": "01:01.4",
+    "start_time": "00:57.0",
+    "end_time": "01:01.1",
+    "arabic": "جل ما له شريك ولا له مثل",
+    "english": "You are far above all things; You have no partner and nothing is like You.",
+    "urdu": "تو ہر نقص سے پاک اور بلند ہے؛ نہ تیرا کوئی شریک ہے اور نہ کوئی تیرے جیسا ہے۔"
+  },
+  {
+    "start_time": "01:01.1",
+    "end_time": "01:05.0",
+    "arabic": "بعد لطفك بنا ربنا افعل بنا",
+    "english": "Our Lord, after all the kindness You have shown us, deal with us in Your mercy.",
+    "urdu": "اے ہمارے رب، ہم پر اپنے لطف و کرم کے ساتھ معاملہ فرما۔"
+  },
+  {
+    "start_time": "01:05.0",
     "end_time": "01:08.6",
-    "arabic": "بعد لطفك بنا ربنا افعل بنا كل ما أنت له يا إلهي أهل",
-    "english": "Our Lord, You have always shown us kindness. Treat us with the mercy and goodness that only You can give."
+    "arabic": "كل ما أنت له يا إلهي أهل",
+    "english": "O my God, treat us with the goodness that befits Your grace.",
+    "urdu": "اے میرے معبود، ہمارے ساتھ وہی کرم فرما جو تیری شانِ رحمت کے لائق ہے۔"
   },
   {
     "start_time": "01:08.6",
+    "end_time": "01:12.4",
+    "arabic": "يا مجيب الدعا يا متم الرجا",
+    "english": "O Answerer of prayers, O Fulfiler of hopes!",
+    "urdu": "اے دعائیں قبول کرنے والے، اے امیدیں پوری کرنے والے!"
+  },
+  {
+    "start_time": "01:12.4",
     "end_time": "01:16.2",
-    "arabic": "يا مجيب الدعا يا متم الرجا أسألك بالذي يا إلاهي نزل",
-    "english": "O One who answers prayers and fulfils our hopes, I ask You by the One through whom, O my Lord, the revelation was sent down."
+    "arabic": "أسألك بالذي يا إلاهي نزل",
+    "english": "I beseech You by the One through whom, O my Lord, the revelation was sent down.",
+    "urdu": "اے میرے معبود، میں تجھ سے اس ہستی کے وسیلے سے سوال کرتا ہوں جس کے ذریعے وحی نازل ہوئی۔"
   },
   {
     "start_time": "01:16.2",
+    "end_time": "01:20.0",
+    "arabic": "به على المصطفى مع شديد القوى",
+    "english": "Brought to the Chosen Prophet by the mighty angel of great strength.",
+    "urdu": "جسے عظیم قوت والے فرشتے نے برگزیدہ نبی ﷺ پر نازل کیا۔"
+  },
+  {
+    "start_time": "01:20.0",
     "end_time": "01:23.6",
-    "arabic": "به على المصطفى مع شديد القوى واسألك بالذي دك صلب الجبل",
-    "english": "The revelation brought to the Chosen Prophet by the mighty angel. I also ask You by the One who can crush even the strongest mountain."
+    "arabic": "واسألك بالذي دك صلب الجبل",
+    "english": "And I ask You by the One who can shatter even the strongest mountain.",
+    "urdu": "اور میں تجھ سے اس قدرت کے واسطے سے سوال کرتا ہوں جو مضبوط پہاڑ کو بھی ریزہ ریزہ کر سکتی ہے۔"
   },
   {
     "start_time": "01:23.6",
+    "end_time": "01:27.2",
+    "arabic": "الغنى والرضا والهدى والتقى",
+    "english": "Grant me contentment, freedom from need, guidance, and piety.",
+    "urdu": "مجھے بے نیازی، دل کا سکون، ہدایت اور تقویٰ عطا فرما۔"
+  },
+  {
+    "start_time": "01:27.2",
     "end_time": "01:31.2",
-    "arabic": "الغنى والرضا والهدى والتقى والعفو.. العفو ثم حسن العمل",
-    "english": "Grant me contentment, a life free from need, guidance, and piety. Forgive me again and again, and help me do good deeds."
+    "arabic": "والعفو.. العفو ثم حسن العمل",
+    "english": "Grant me forgiveness, again and again, and help me do good deeds.",
+    "urdu": "مجھے بار بار معاف فرما اور نیک اعمال کرنے کی توفیق عطا فرما۔"
   },
   {
     "start_time": "01:31.2",
+    "end_time": "01:34.4",
+    "arabic": "واسألك غادي مادي كلما",
+    "english": "I ask You by the passing clouds, moving across the sky.",
+    "urdu": "میں آسمان پر چلنے والے ان بادلوں کے وسیلے سے تجھ سے سوال کرتا ہوں۔"
+  },
+  {
+    "start_time": "01:34.4",
     "end_time": "01:38.6",
-    "arabic": "واسألك غادي مادي كلما لج فيه الرعد حل فينا الوجل",
-    "english": "I ask You by the clouds that move across the sky, as thunder roars and fills our hearts with awe."
+    "arabic": "لج فيه الرعد حل فينا الوجل",
+    "english": "As thunder roars within them, awe and wonder fill our hearts.",
+    "urdu": "جب ان میں گرج چمک اٹھتی ہے تو ہمارے دل ہیبت سے بھر جاتے ہیں۔"
   },
   {
     "start_time": "01:38.6",
+    "end_time": "01:42.0",
+    "arabic": "وادق صادق غادق ضاحك",
+    "english": "By the clouds that gather, grow heavy, and pour down abundant rain.",
+    "urdu": "ان بادلوں کے وسیلے سے جو جمع ہوتے، پانی سے بھر جاتے اور خوب برستے ہیں۔"
+  },
+  {
+    "start_time": "01:42.0",
     "end_time": "01:46.2",
-    "arabic": "وادق صادق غادق ضاحك باكي كلما ضحك مزنه هطل",
-    "english": "I ask You by the clouds that gather and pour down rain, as the sky opens and showers fall upon the earth."
+    "arabic": "باكي كلما ضحك مزنه هطل",
+    "english": "The sky seems to weep as its smiling clouds pour down rain.",
+    "urdu": "گویا آسمان روتا ہے جب اس کے مسکراتے بادل بارش برساتے ہیں۔"
   },
   {
     "start_time": "01:46.2",
+    "end_time": "01:50.1",
+    "arabic": "المحث المرث المحن المرن",
+    "english": "The clouds gather, grow heavy, and prepare to release their rain.",
+    "urdu": "بادل جمع ہوتے ہیں، بوجھل ہوتے ہیں اور برسنے کے لیے تیار ہوتے ہیں۔"
+  },
+  {
+    "start_time": "01:50.1",
     "end_time": "01:53.6",
-    "arabic": "المحث المرث المحن المرن هامي سامي داني متصل",
-    "english": "The clouds gather high above, then move closer and closer, pouring down rain without stopping."
+    "arabic": "هامي سامي داني متصل",
+    "english": "They rise high, draw near, and pour down without pause.",
+    "urdu": "وہ بلند ہوتے، قریب آتے اور لگاتار برستے ہیں۔"
   },
   {
     "start_time": "01:53.6",
+    "end_time": "01:57.2",
+    "arabic": "به يحط الحصا بالوطا من علا",
+    "english": "Their rushing waters carry pebbles down from the heights.",
+    "urdu": "ان کے تیز بہاؤ سے کنکریاں بلندیوں سے نیچے آ گرتی ہیں۔"
+  },
+  {
+    "start_time": "01:57.2",
     "end_time": "02:01.1",
-    "arabic": "به يحط الحصا بالوطا من علا منحني بالرفا والغثا بالشلل",
-    "english": "The rain carries pebbles down from the hills, bends the branches, and sweeps away the debris with rushing water."
+    "arabic": "منحني بالرفا والغثا بالشلل",
+    "english": "Branches bend, and the flowing waters sweep away the debris.",
+    "urdu": "شاخیں جھک جاتی ہیں اور بہتا ہوا پانی کچرا اور ملبہ بہا لے جاتا ہے۔"
   },
   {
     "start_time": "02:01.1",
+    "end_time": "02:04.6",
+    "arabic": "أسألك بعد ذا عارض سايح",
+    "english": "After this, I ask You by the great clouds spreading across the sky.",
+    "urdu": "اس کے بعد میں آسمان پر پھیلتے ہوئے گھنے بادلوں کے وسیلے سے سوال کرتا ہوں۔"
+  },
+  {
+    "start_time": "02:04.6",
     "end_time": "02:08.6",
-    "arabic": "أسألك بعد ذا عارض سايح كن به طق مثنى سحابه طبل",
-    "english": "I ask You by the great rain clouds that spread across the sky, their thunder beating like drums."
+    "arabic": "كن به طق مثنى سحابه طبل",
+    "english": "Their thunder beats like drums as the clouds roll overhead.",
+    "urdu": "بادلوں کے گرجنے کی آواز یوں ہے جیسے آسمان پر ڈھول بج رہے ہوں۔"
   },
   {
     "start_time": "02:08.6",
+    "end_time": "02:11.8",
+    "arabic": "داير حاير عارض رايح",
+    "english": "The storm clouds swirl, wander, and sweep across the sky.",
+    "urdu": "طوفانی بادل گھومتے، پھیلتے اور آسمان پر تیزی سے گزرتے ہیں۔"
+  },
+  {
+    "start_time": "02:11.8",
     "end_time": "02:16.1",
-    "arabic": "داير حاير عارض رايح كل من شاف برقه تخاطف جفل",
-    "english": "The storm clouds swirl and sweep across the sky. Whoever sees their lightning is startled by its sudden flash."
+    "arabic": "كل من شاف برقه تخاطف جفل",
+    "english": "Whoever sees their lightning is startled by its sudden flash.",
+    "urdu": "جو بھی ان کی بجلی دیکھتا ہے، اس کی اچانک چمک سے چونک اٹھتا ہے۔"
   },
   {
     "start_time": "02:16.1",
+    "end_time": "02:20.2",
+    "arabic": "من سحاب حقوق صدوق جفول",
+    "english": "Great, restless clouds gather, heavy with rain.",
+    "urdu": "بڑے، بے قرار اور بارش سے بھرے بادل جمع ہو جاتے ہیں۔"
+  },
+  {
+    "start_time": "02:20.2",
     "end_time": "02:23.6",
-    "arabic": "من سحاب حقوق صدوق جفول عريض مريض وني عجل",
-    "english": "Huge clouds gather across the sky, restless and heavy, moving quickly as the storm draws near."
+    "arabic": "عريض مريض وني عجل",
+    "english": "They spread wide across the sky and rush onward with the storm.",
+    "urdu": "وہ آسمان پر دور دور تک پھیل جاتے ہیں اور طوفان کے ساتھ آگے بڑھتے ہیں۔"
   },
   {
     "start_time": "02:23.6",
+    "end_time": "02:27.2",
+    "arabic": "كن مزنه إلى ما ارتدم وارتكم",
+    "english": "Their rain clouds pile up, layer upon layer.",
+    "urdu": "ان کے بارش والے بادل تہہ در تہہ جمع ہو جاتے ہیں۔"
+  },
+  {
+    "start_time": "02:27.2",
     "end_time": "02:31.1",
-    "arabic": "كن مزنه إلى ما ارتدم وارتكم في مثاني السدى دامرات الحلل",
-    "english": "The rain clouds pile up layer upon layer, covering the sky with thick, dark clouds."
+    "arabic": "في مثاني السدى دامرات الحلل",
+    "english": "Dark, thick clouds cover the sky in deep layers.",
+    "urdu": "گہرے اور گھنے بادل تہہ در تہہ آسمان کو ڈھانپ لیتے ہیں۔"
   },
   {
     "start_time": "02:31.1",
+    "end_time": "02:35.6",
+    "arabic": "ناشي غاشي سداه فوق السها",
+    "english": "The clouds rise and spread, hiding even the distant stars.",
+    "urdu": "بادل اٹھ کر پھیل جاتے ہیں اور دور کے ستاروں کو بھی چھپا دیتے ہیں۔"
+  },
+  {
+    "start_time": "02:35.6",
     "end_time": "02:40.1",
-    "arabic": "ناشي غاشي سداه فوق السها كن مقدم سحابه يجرجر عجل",
-    "english": "The clouds rise and spread, hiding the distant stars as the leading clouds pull the rest quickly behind them."
+    "arabic": "كن مقدم سحابه يجرجر عجل",
+    "english": "The leading clouds pull the rest along in a mighty rush.",
+    "urdu": "آگے بڑھنے والے بادل باقی بادلوں کو اپنے ساتھ تیزی سے کھینچتے چلے جاتے ہیں۔"
   },
   {
     "start_time": "02:40.1",
+    "end_time": "02:43.5",
+    "arabic": "مدهش مرهش مرعش منعش",
+    "english": "The storm is awe-inspiring, stirring, and full of life.",
+    "urdu": "یہ طوفان حیرت انگیز، دل کو جھنجھوڑنے والا اور زندگی بخش ہے۔"
+  },
+  {
+    "start_time": "02:43.5",
     "end_time": "02:47.7",
-    "arabic": "مدهش مرهش مرعش منعش كن به لمع هند بكون تسل",
-    "english": "The mighty storm fills us with awe, while flashes of lightning shine like the sharp blade of a sword."
+    "arabic": "كن به لمع هند بكون تسل",
+    "english": "Lightning flashes like a bright, sharp blade across the sky.",
+    "urdu": "بجلی آسمان پر تیز اور چمکتی ہوئی تلوار کی طرح لپکتی ہے۔"
   },
   {
     "start_time": "02:47.7",
+    "end_time": "02:51.2",
+    "arabic": "أدهمٍ مظلمٍ موجف مركم",
+    "english": "Dark, towering clouds gather into a mighty storm.",
+    "urdu": "سیاہ اور بلند بادل جمع ہو کر ایک زبردست طوفان بن جاتے ہیں۔"
+  },
+  {
+    "start_time": "02:51.2",
     "end_time": "02:55.5",
-    "arabic": "أدهمٍ مظلمٍ موجف مركم جورسيله يعم الوعر والسهل",
-    "english": "Dark clouds gather into a mighty storm, sending rushing waters across the hills and open plains."
+    "arabic": "جورسيله يعم الوعر والسهل",
+    "english": "Its rushing waters spread across rough hills and open plains.",
+    "urdu": "اس کا تیز بہاؤ ناہموار پہاڑیوں اور کھلے میدانوں تک پھیل جاتا ہے۔"
   },
   {
     "start_time": "02:55.5",
+    "end_time": "02:58.8",
+    "arabic": "كلما إختفق واصطفق واندفق",
+    "english": "The winds blow, the clouds clash, and the waters rush down.",
+    "urdu": "ہوائیں چلتی ہیں، بادل ٹکراتے ہیں اور پانی تیزی سے بہنے لگتا ہے۔"
+  },
+  {
+    "start_time": "02:58.8",
     "end_time": "03:02.6",
-    "arabic": "كلما إختفق واصطفق واندفق إستهل وانتهل وانهمل كالهلل",
-    "english": "The winds blow, the clouds clash, and the water rushes down as heavy rain pours from the sky."
+    "arabic": "إستهل وانتهل وانهمل كالهلل",
+    "english": "The rain pours heavily, falling in streams from the sky.",
+    "urdu": "آسمان سے موسلا دھار بارش برسنے لگتی ہے۔"
   },
   {
     "start_time": "03:02.6",
+    "end_time": "03:06.2",
+    "arabic": "به يحط الحصى بالوطا من علا",
+    "english": "The rushing waters carry pebbles down from the heights.",
+    "urdu": "ان کے تیز بہاؤ سے کنکریاں بلندیوں سے نیچے آ گرتی ہیں۔"
+  },
+  {
+    "start_time": "03:06.2",
     "end_time": "03:10.1",
-    "arabic": "به يحط الحصى بالوطا من علا منحني بالرفا والغثا بالشلل",
-    "english": "The rain carries pebbles down from the hills, bends the branches, and sweeps away the debris with rushing water."
+    "arabic": "منحني بالرفا والغثا بالشلل",
+    "english": "Branches bend, and the flowing waters sweep away the debris.",
+    "urdu": "شاخیں جھک جاتی ہیں اور بہتا ہوا پانی کچرا اور ملبہ بہا لے جاتا ہے۔"
   },
   {
     "start_time": "03:10.1",
+    "end_time": "03:13.7",
+    "arabic": "حينما إستوى وارتوى واقتوى",
+    "english": "The land drinks its fill and grows strong again.",
+    "urdu": "زمین سیراب ہو جاتی ہے اور دوبارہ تازہ دم ہو جاتی ہے۔"
+  },
+  {
+    "start_time": "03:13.7",
     "end_time": "03:17.6",
-    "arabic": "حينما إستوى وارتوى واقتوى إستقل وانتقل واضمحل المحل",
-    "english": "The thirsty land drinks its fill and grows strong again. The waters recede, the clouds move on, and the drought comes to an end."
+    "arabic": "إستقل وانتقل واضمحل المحل",
+    "english": "The waters recede, the clouds move on, and the drought fades away.",
+    "urdu": "پانی اتر جاتا ہے، بادل آگے بڑھ جاتے ہیں اور خشک سالی ختم ہونے لگتی ہے۔"
   },
   {
     "start_time": "03:17.6",
+    "end_time": "03:20.8",
+    "arabic": "بعد ذا آخر ماض جورماه",
+    "english": "Then the last great rush of floodwater passes through.",
+    "urdu": "پھر سیلابی پانی کا آخری بڑا ریلا گزر جاتا ہے۔"
+  },
+  {
+    "start_time": "03:20.8",
     "end_time": "03:25.1",
-    "arabic": "بعد ذا آخر ماض جورماه ثم يشيل الشجر في مسيل الفحل",
-    "english": "As the last floodwaters rush past, they carry branches and trees along the river channels."
+    "arabic": "ثم يشيل الشجر في مسيل الفحل",
+    "english": "It carries trees and branches along the rushing river channels.",
+    "urdu": "وہ تیز بہتے نالوں میں درختوں اور شاخوں کو بہا لے جاتا ہے۔"
   },
   {
     "start_time": "03:25.1",
+    "end_time": "03:28.6",
+    "arabic": "كلما إزدجر واندجر وانفجر",
+    "english": "The waters surge, gather force, and burst through the land.",
+    "urdu": "پانی زور پکڑتا ہے، تیزی سے بہتا ہے اور زمین پر پھیل جاتا ہے۔"
+  },
+  {
+    "start_time": "03:28.6",
     "end_time": "03:32.6",
-    "arabic": "كلما إزدجر واندجر وانفجر ماه حط الحجر في جروف المحل",
-    "english": "As the waters surge and burst through the land, they throw stones into the dry ravines."
+    "arabic": "ماه حط الحجر في جروف المحل",
+    "english": "The floodwater throws stones into the banks of the dry ravines.",
+    "urdu": "سیلابی پانی پتھروں کو خشک ندی نالوں کے کناروں پر لا پھینکتا ہے۔"
   },
   {
     "start_time": "03:32.6",
+    "end_time": "03:37.0",
+    "arabic": "والفياض اخصبت والرياض اعشبت",
+    "english": "The valleys grow fertile, and the gardens turn green.",
+    "urdu": "وادیاں زرخیز ہو جاتی ہیں اور باغات ہریالی سے بھر جاتے ہیں۔"
+  },
+  {
+    "start_time": "03:37.0",
     "end_time": "03:41.6",
-    "arabic": "والفياض اخصبت والرياض اعشبت والركايا ارعجت والمقل أسفهل",
-    "english": "The valleys become fertile, the gardens turn green, the wells fill with water, and the dry land comes back to life."
+    "arabic": "والركايا ارعجت والمقل أسفهل",
+    "english": "The wells fill with water, and the dry land comes back to life.",
+    "urdu": "کنویں پانی سے بھر جاتے ہیں اور خشک زمین پھر سے زندہ ہو اٹھتی ہے۔"
   },
   {
     "start_time": "03:41.6",
+    "end_time": "03:49.1",
+    "arabic": "والحزوم اربعت والجوازي سعت",
+    "english": "The hills grow green, and the young gazelles roam freely.",
+    "urdu": "پہاڑیاں سرسبز ہو جاتی ہیں اور ہرن کے بچے آزادانہ گھومنے لگتے ہیں۔"
+  },
+  {
+    "start_time": "03:49.1",
     "end_time": "03:57.3",
-    "arabic": "والحزوم اربعت والجوازي سعت والطيور اسجعت فوق زهر النفل",
-    "english": "The hills turn green, young gazelles roam freely, and birds sing sweetly above the blooming clover."
+    "arabic": "والطيور اسجعت فوق زهر النفل",
+    "english": "Birds sing sweetly above the blooming clover flowers.",
+    "urdu": "کھلتے ہوئے شبدر کے پھولوں کے اوپر پرندے میٹھے گیت گاتے ہیں۔"
   },
   {
     "start_time": "03:57.3",
+    "end_time": "04:06.3",
+    "arabic": "كن وصف اختلاف الزهر في الرياض",
+    "english": "Look at the many different flowers blooming in the gardens.",
+    "urdu": "دیکھو، باغوں میں کتنے ہی رنگوں اور قسموں کے پھول کھل رہے ہیں۔"
+  },
+  {
+    "start_time": "04:06.3",
     "end_time": "04:14.5",
-    "arabic": "كن وصف اختلاف الزهر في الرياض إختلاف الفرش والزوالي تفل",
-    "english": "The flowers bloom in many different colours, making the gardens look like beautiful carpets spread across the land."
+    "arabic": "إختلاف الفرش والزوالي تفل",
+    "english": "Their colours spread like beautiful carpets laid across the land.",
+    "urdu": "ان کے رنگ یوں بکھرے ہیں جیسے زمین پر خوب صورت قالین بچھے ہوں۔"
   },
   {
     "start_time": "04:14.5",
+    "end_time": "04:22.8",
+    "arabic": "يا مجيب الدعا يا متم الرجا",
+    "english": "O Answerer of prayers, O Fulfiler of hopes!",
+    "urdu": "اے دعائیں قبول کرنے والے، اے امیدیں پوری کرنے والے!"
+  },
+  {
+    "start_time": "04:22.8",
     "end_time": "04:30.2",
-    "arabic": "يا مجيب الدعا يا متم الرجا إستجب دعوتي إنني مبتهل",
-    "english": "O One who answers prayers and fulfils our hopes, please answer my prayer, for I call upon You with all my heart."
+    "arabic": "إستجب دعوتي إنني مبتهل",
+    "english": "Please answer my prayer; I call upon You with all my heart.",
+    "urdu": "میری دعا قبول فرما، میں عاجزی اور دل کی گہرائی سے تجھ سے فریاد کرتا ہوں۔"
   }
 ]
