@@ -1,32 +1,72 @@
 [
   {
-    "arabic": "دعوتك يا رب والليل داجل"
+    "start_time": "00:00.0",
+    "end_time": "00:07.1",
+    "arabic": "دعوتك يا رب والليل داجل",
+    "english": "I called upon You, O Lord, while the night was dark and deep",
+    "urdu": "اے رب، میں نے تجھے پکارا جب رات گہری اور اندھیری تھی"
   },
   {
-    "arabic": "وأنت العظيم الذي لا ينام"
+    "start_time": "00:07.1",
+    "end_time": "00:13.2",
+    "arabic": "وأنت العظيم الذي لا ينام",
+    "english": "And You are the Almighty who never sleeps",
+    "urdu": "اور تو وہ عظیم ہے جو کبھی نہیں سوتا"
   },
   {
-    "arabic": "إلهي ضعفت وأنت القوي"
+    "start_time": "00:13.2",
+    "end_time": "00:20.0",
+    "arabic": "إلهي ضعفت وأنت القوي",
+    "english": "My God, I have grown weak, and You are the All-Strong",
+    "urdu": "اے میرے معبود، میں کمزور ہو گیا ہوں، اور تو سب سے طاقتور ہے"
   },
   {
-    "arabic": "وحسبي عنك الرضا والسلام"
+    "start_time": "00:20.0",
+    "end_time": "00:26.4",
+    "arabic": "وحسبي عنك الرضا والسلام",
+    "english": "And enough for me from You is Your pleasure and peace",
+    "urdu": "اور تیری طرف سے میرے لیے تیری رضا اور سلامتی کافی ہے"
   },
   {
-    "arabic": "إذا ضاقت الأرض يوما عليا"
+    "start_time": "00:26.4",
+    "end_time": "00:32.9",
+    "arabic": "إذا ضاقت الأرض يوما عليا",
+    "english": "When the earth one day closes in on me",
+    "urdu": "جب ایک دن زمین مجھ پر تنگ ہو جائے"
   },
   {
-    "arabic": "فبابك يا ربي نعم المقام"
+    "start_time": "00:32.9",
+    "end_time": "00:39.1",
+    "arabic": "فبابك يا ربي نعم المقام",
+    "english": "Then Your door, O my Lord, is the best place to stand",
+    "urdu": "تو تیرا در، اے میرے رب، بہترین جگہ ہے"
   },
   {
-    "arabic": "أمد يدي إليك افتقارا"
+    "start_time": "00:39.1",
+    "end_time": "00:45.0",
+    "arabic": "أمد يدي إليك افتقارا",
+    "english": "I stretch out my hands to You in utter need",
+    "urdu": "میں اپنے ہاتھ تیری طرف بڑھاتا ہوں، عاجزی کے ساتھ"
   },
   {
-    "arabic": "فبالنور منك يزول الظلام"
+    "start_time": "00:45.0",
+    "end_time": "00:51.9",
+    "arabic": "فبالنور منك يزول الظلام",
+    "english": "For by the light from You, the darkness fades away",
+    "urdu": "کیونکہ تیرے نور سے اندھیرا دور ہو جاتا ہے"
   },
   {
-    "arabic": "إلهي ولا تكلني لنفسي"
+    "start_time": "00:51.9",
+    "end_time": "00:58.6",
+    "arabic": "إلهي ولا تكلني لنفسي",
+    "english": "My God, do not leave me to myself",
+    "urdu": "اے میرے معبود، مجھے میرے نفس کے حوالے نہ کر"
   },
   {
-    "arabic": "ليحسن عندك من الختام"
+    "start_time": "00:58.6",
+    "end_time": "01:04.7",
+    "arabic": "ليحسن عندك من الختام",
+    "english": "So that my ending may be beautiful in Your sight",
+    "urdu": "تاکہ میرا انجام تیرے ہاں اچھا ہو"
   }
 ]
