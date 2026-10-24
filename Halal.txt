@@ -43,13 +43,13 @@
   },
   {
     "start_time": "00:40.0",
-    "end_time": "00:46.0",
+    "end_time": "00:45.0",
     "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
     "english": "I wish to be united with her in a lawful marriage.",
     "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
   },
   {
-    "start_time": "00:46.0",
+    "start_time": "00:45.0",
     "end_time": "00:51.0",
     "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
     "english": "And I will honor our love with faith.",
@@ -57,13 +57,13 @@
   },
   {
     "start_time": "00:51.0",
-    "end_time": "00:56.0",
+    "end_time": "00:55.0",
     "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
     "english": "I wish to be united with her in a lawful marriage.",
     "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
   },
   {
-    "start_time": "00:56.0",
+    "start_time": "00:55.0",
     "end_time": "01:01.0",
     "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
     "english": "And I will honor our love with faith.",
@@ -71,13 +71,13 @@
   },
   {
     "start_time": "01:01.0",
-    "end_time": "01:05.0",
+    "end_time": "01:04.0",
     "arabic": "لَا أَبْتَغِي دَرْبَ الْغَرَامِ إِذَا غَدَا",
     "english": "I will not follow the path of romance if it becomes",
     "urdu": "میں محبت کی اس راہ پر نہیں چلوں گا اگر وہ بن جائے"
   },
   {
-    "start_time": "01:05.0",
+    "start_time": "01:04.0",
     "end_time": "01:11.0",
     "arabic": "سَبَبًا لِبُعْدِي عَنْ هُدَى الرَّحْمَنِ",
     "english": "a reason to stray from the guidance of the Most Merciful.",
