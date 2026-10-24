@@ -72,9 +72,9 @@
   {
     "start_time": "01:13.0",
     "end_time": "01:21.0",
-    "arabic": "يا ربي يا سامع الدعاء",
-    "english": "O my Lord, You who hear every prayer,",
-    "urdu": "اے میرے رب، اے دعاؤں کو سننے والے،"
+    "arabic": "يا ربي يا ربي يا سامع الدعاء",
+    "english": "O my Lord, o my Lord, You who hear every prayer",
+    "urdu": "اے میرے رب، اے میرے رب اے دعاؤں کو سننے والے"
   },
   {
     "start_time": "01:21.0",
