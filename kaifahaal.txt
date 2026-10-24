@@ -1,0 +1,170 @@
+[
+  {
+    "start_time": "00:00.0",
+    "end_time": "00:03.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:03.0",
+    "end_time": "00:06.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me?",
+    "urdu": "اے میری پوری دنیا، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:06.0",
+    "end_time": "00:09.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:09.0",
+    "end_time": "00:12.0",
+    "arabic": "يا طيف شوقي",
+    "english": "O vision of my longing?",
+    "urdu": "اے میری تڑپ کے تصور، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:12.0",
+    "end_time": "00:15.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:15.0",
+    "end_time": "00:18.0",
+    "arabic": "يا سر قلبي",
+    "english": "O secret of my heart?",
+    "urdu": "اے میرے دل کے راز، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:18.0",
+    "end_time": "00:20.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:20.0",
+    "end_time": "00:23.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me?",
+    "urdu": "اے میری پوری دنیا، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:23.0",
+    "end_time": "00:26.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:26.0",
+    "end_time": "00:30.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me?",
+    "urdu": "اے میری پوری دنیا، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:30.0",
+    "end_time": "00:32.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:32.0",
+    "end_time": "00:35.0",
+    "arabic": "يا طيف شوقي",
+    "english": "O vision of my longing?",
+    "urdu": "اے میری تڑپ کے تصور، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:35.0",
+    "end_time": "00:38.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:38.0",
+    "end_time": "00:41.0",
+    "arabic": "يا سر قلبي",
+    "english": "O secret of my heart?",
+    "urdu": "اے میرے دل کے راز، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:41.0",
+    "end_time": "00:44.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:44.0",
+    "end_time": "00:47.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me?",
+    "urdu": "اے میری پوری دنیا، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:47.0",
+    "end_time": "00:50.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:50.0",
+    "end_time": "00:53.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me?",
+    "urdu": "اے میری پوری دنیا، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:53.0",
+    "end_time": "00:56.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:56.0",
+    "end_time": "00:59.0",
+    "arabic": "يا طيف شوقي",
+    "english": "O vision of my longing?",
+    "urdu": "اے میری تڑپ کے تصور، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "00:59.0",
+    "end_time": "01:01.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "01:01.0",
+    "end_time": "01:04.0",
+    "arabic": "يا سر قلبي",
+    "english": "O secret of my heart?",
+    "urdu": "اے میرے دل کے راز، تم کیسے ہو؟"
+  },
+  {
+    "start_time": "01:04.0",
+    "end_time": "01:07.0",
+    "arabic": "كيف حالك",
+    "english": "How are you?",
+    "urdu": "تم کیسے ہو؟"
+  },
+  {
+    "start_time": "01:07.0",
+    "end_time": "01:11.0",
+    "arabic": "يا كل حالي",
+    "english": "O you who mean everything to me.",
+    "urdu": "اے میری پوری دنیا"
+  }
+]
