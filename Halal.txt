@@ -1,13 +1,13 @@
 [
   {
     "start_time": "00:10.0",
-    "end_time": "00:12.0",
+    "end_time": "00:14.5",
     "arabic": "أَحْبَبْتُهَا حُبًّا حَلَالًا صَادِقًا",
     "english": "I loved her with a sincere love, pure and lawful.",
     "urdu": "میں نے اس سے سچی، پاکیزہ اور حلال محبت کی۔"
   },
   {
-    "start_time": "00:12.0",
+    "start_time": "00:14.5",
     "end_time": "00:20.0",
     "arabic": "وَجَعَلْتُ تَقْوَى اللهِ نُورَ جَنَانِي",
     "english": "I made my devotion to Allah, the light of my heart.",
@@ -64,20 +64,20 @@
   },
   {
     "start_time": "00:56.0",
-    "end_time": "01:00.0",
+    "end_time": "01:01.0",
     "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
     "english": "And I will honor our love with faith.",
     "urdu": "اور میں ایمان کے ساتھ محبت کے اس عہد کی حفاظت کروں گا۔"
   },
   {
-    "start_time": "01:00.0",
-    "end_time": "01:03.0",
+    "start_time": "01:01.0",
+    "end_time": "01:05.0",
     "arabic": "لَا أَبْتَغِي دَرْبَ الْغَرَامِ إِذَا غَدَا",
     "english": "I will not follow the path of romance if it becomes",
     "urdu": "میں محبت کی اس راہ پر نہیں چلوں گا اگر وہ بن جائے"
   },
   {
-    "start_time": "01:03.0",
+    "start_time": "01:05.0",
     "end_time": "01:11.0",
     "arabic": "سَبَبًا لِبُعْدِي عَنْ هُدَى الرَّحْمَنِ",
     "english": "a reason to stray from the guidance of the Most Merciful.",
@@ -113,13 +113,13 @@
   },
   {
     "start_time": "01:31.0",
-    "end_time": "01:35.0",
+    "end_time": "01:36.0",
     "arabic": "مَا الْحُبُّ عَيْبٌ إِنْ تَزَيَّنَ بِالتُّقَى",
     "english": "Love is not wrong when it is adorned with piety.",
     "urdu": "محبت کوئی عیب نہیں، اگر اسے تقویٰ سے آراستہ کیا جائے۔"
   },
   {
-    "start_time": "01:35.0",
+    "start_time": "01:36.0",
     "end_time": "01:41.0",
     "arabic": "وَغَدَا عَلَى نَهْجِ الْهُدَى وَالْإِحْسَانِ",
     "english": "And follows the path of guidance and goodness.",
@@ -127,13 +127,13 @@
   },
   {
     "start_time": "01:41.0",
-    "end_time": "01:49.0",
+    "end_time": "01:47.0",
     "arabic": "وَالْحُبُّ يَسْمُو حِينَ يَحْفَظُ عَهْدَهُ",
     "english": "Love rises to a higher level when it keeps its promise.",
     "urdu": "محبت کا مقام بلند ہوتا ہے جب وہ اپنے عہد کو نبھاتی ہے۔"
   },
   {
-    "start_time": "01:49.0",
+    "start_time": "01:47.0",
     "end_time": "01:51.0",
     "arabic": "وَيَصُونُ قَلْبَيْنِ مِنَ الْعِصْيَانِ",
     "english": "And protects two hearts from disobedience.",
