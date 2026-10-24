@@ -1,0 +1,156 @@
+[
+  {
+    "start_time": "00:17.4",
+    "end_time": "00:25.1",
+    "arabic": "يا رحمن، يا منان، يا سلام، يا برهان",
+    "english": "O Most Merciful, O Bestower of blessings, O Source of peace, O Clear Proof,",
+    "urdu": "اے نہایت مہربان، اے نعمتیں عطا کرنے والے، اے سلامتی والے، اے روشن دلیل،"
+  },
+  {
+    "start_time": "00:25.1",
+    "end_time": "00:33.4",
+    "arabic": "أنت الخالق، الديان، في علاك يا حنان",
+    "english": "You are the Creator and the Judge; You are Most Kind and Exalted.",
+    "urdu": "تو ہی خالق اور جزا دینے والا ہے، اے نہایت مہربان اور بلند و بالا رب۔"
+  },
+  {
+    "start_time": "00:33.4",
+    "end_time": "00:41.4",
+    "arabic": "يا علماً ويا إيماناً تهدي القلب والوجدان",
+    "english": "O source of knowledge and faith, You guide the heart and soul.",
+    "urdu": "اے علم و ایمان کے سرچشمے، تو دل اور روح کو ہدایت دیتا ہے۔"
+  },
+  {
+    "start_time": "00:41.5",
+    "end_time": "00:49.8",
+    "arabic": "يا من أعطى وأعانا، أملًا بالنور دنيانا",
+    "english": "You give and help us, filling our world with hope and light.",
+    "urdu": "تو عطا کرتا اور ہماری مدد فرماتا ہے، ہماری دنیا کو امید اور نور سے بھر دیتا ہے۔"
+  },
+  {
+    "start_time": "00:49.8",
+    "end_time": "00:57.9",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "00:57.9",
+    "end_time": "01:06.2",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  },
+  {
+    "start_time": "01:06.2",
+    "end_time": "01:14.2",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "01:14.2",
+    "end_time": "01:23.3",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  },
+  {
+    "start_time": "01:40.3",
+    "end_time": "01:48.3",
+    "arabic": "يا غفار، يا ودودو، يا وهاب، يا مجيدو",
+    "english": "O All-Forgiving, O Most Loving, O Bestower, O Most Glorious,",
+    "urdu": "اے بہت بخشنے والے، اے بے حد محبت کرنے والے، اے عطا فرمانے والے، اے بزرگی والے،"
+  },
+  {
+    "start_time": "01:48.3",
+    "end_time": "01:56.5",
+    "arabic": "أنت القادرو الصمدو، يا من نوره يهدينا",
+    "english": "You are All-Powerful and Eternal; Your light guides us.",
+    "urdu": "تو ہر چیز پر قادر اور بے نیاز ہے؛ تیرا نور ہمیں راستہ دکھاتا ہے۔"
+  },
+  {
+    "start_time": "01:56.5",
+    "end_time": "02:04.5",
+    "arabic": "يا علماً ويا إيماناً تهدي القلب والوجدانا",
+    "english": "O source of knowledge and faith, You guide the heart and soul.",
+    "urdu": "اے علم و ایمان کے سرچشمے، تو دل اور روح کو ہدایت دیتا ہے۔"
+  },
+  {
+    "start_time": "02:04.5",
+    "end_time": "02:13.2",
+    "arabic": "يا من أعطى وأعلى، أملًا بالنور دنيانا",
+    "english": "You give and raise us up, filling our world with hope and light.",
+    "urdu": "اے عطا کرنے اور بلند مرتبہ دینے والے، تو ہماری دنیا کو امید اور نور سے بھر دیتا ہے۔"
+  },
+  {
+    "start_time": "02:13.2",
+    "end_time": "02:21.3",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "02:21.3",
+    "end_time": "02:29.1",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  },
+  {
+    "start_time": "02:29.1",
+    "end_time": "02:37.4",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "02:37.4",
+    "end_time": "02:46.2",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  },
+  {
+    "start_time": "02:46.2",
+    "end_time": "02:53.8",
+    "arabic": "يا سميع، يا بصير، نصير،يا حكيم، يا خبير",
+    "english": "O All-Hearing, O All-Seeing, O Helper, O All-Wise, O All-Aware,",
+    "urdu": "اے سب کچھ سننے والے، اے سب کچھ دیکھنے والے، اے مددگار، اے حکمت والے، اے ہر بات سے باخبر،"
+  },
+  {
+    "start_time": "02:53.9",
+    "end_time": "03:02.1",
+    "arabic": "أنت الهادي والنصير، بعفوك يا ربنا",
+    "english": "You are our Guide and Helper; through Your forgiveness, O Lord, we find hope.",
+    "urdu": "تو ہی ہدایت دینے والا اور مددگار ہے؛ اے ہمارے رب، تیری بخشش سے ہمیں امید ملتی ہے۔"
+  },
+  {
+    "start_time": "03:02.1",
+    "end_time": "03:10.1",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "03:10.1",
+    "end_time": "03:18.3",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  },
+  {
+    "start_time": "03:18.3",
+    "end_time": "03:26.6",
+    "arabic": "أنت الله يا مولانا، ندعوك صبحاً ومسانا",
+    "english": "You are Allah, our Lord; we call upon You morning and evening.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم صبح و شام تجھے پکارتے ہیں۔"
+  },
+  {
+    "start_time": "03:26.6",
+    "end_time": "03:36.3",
+    "arabic": "أنت الله يا مولانا، ارحمنا واحفظ حمانا",
+    "english": "You are Allah, our Lord; have mercy on us and protect our home.",
+    "urdu": "تو ہی اللہ ہے، اے ہمارے مولا؛ ہم پر رحم فرما اور ہماری پناہ گاہ کی حفاظت فرما۔"
+  }
+]
