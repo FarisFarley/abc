@@ -71,13 +71,13 @@
   },
   {
     "start_time": "01:01.0",
-    "end_time": "01:04.0",
+    "end_time": "01:05.5",
     "arabic": "لَا أَبْتَغِي دَرْبَ الْغَرَامِ إِذَا غَدَا",
     "english": "I will not follow the path of romance if it becomes",
     "urdu": "میں محبت کی اس راہ پر نہیں چلوں گا اگر وہ بن جائے"
   },
   {
-    "start_time": "01:04.0",
+    "start_time": "01:05.5",
     "end_time": "01:11.0",
     "arabic": "سَبَبًا لِبُعْدِي عَنْ هُدَى الرَّحْمَنِ",
     "english": "a reason to stray from the guidance of the Most Merciful.",
