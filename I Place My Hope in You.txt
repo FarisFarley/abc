@@ -1,0 +1,128 @@
+[
+  {
+    "start_time": "00:11.0",
+    "end_time": "00:18.0",
+    "arabic": "إليك يا ربي أرفع الدعاء",
+    "english": "To You, my Lord, I raise my prayers.",
+    "urdu": "اے میرے رب، میں تیری بارگاہ میں دعا پیش کرتا ہوں۔"
+  },
+  {
+    "start_time": "00:18.0",
+    "end_time": "00:24.0",
+    "arabic": "وبذكرك العذب يحي الرجاء",
+    "english": "Your beautiful remembrance brings hope to life.",
+    "urdu": "تیرا شیریں ذکر امید کو پھر سے زندہ کر دیتا ہے۔"
+  },
+  {
+    "start_time": "00:24.0",
+    "end_time": "00:30.0",
+    "arabic": "ما خاب عبد يرتجي رحماك",
+    "english": "No servant who hopes for Your mercy is ever disappointed.",
+    "urdu": "جو بندہ تیری رحمت کا امیدوار ہو، وہ کبھی نامراد نہیں ہوتا۔"
+  },
+  {
+    "start_time": "00:30.0",
+    "end_time": "00:36.0",
+    "arabic": "ولا ضاع قلب يرجو لقياك",
+    "english": "No heart that longs to meet You is ever lost.",
+    "urdu": "اور جو دل تیری ملاقات کا آرزو مند ہو، وہ کبھی بھٹکتا نہیں۔"
+  },
+  {
+    "start_time": "00:36.0",
+    "end_time": "00:42.0",
+    "arabic": "فامنح فؤادي سكينة وهدى",
+    "english": "Grant my heart peace and guidance.",
+    "urdu": "میرے دل کو سکون اور ہدایت عطا فرما۔"
+  },
+  {
+    "start_time": "00:42.0",
+    "end_time": "00:48.0",
+    "arabic": "وارزقني الفردوس دارا أبدا",
+    "english": "And grant me Paradise as my eternal home.",
+    "urdu": "اور مجھے ہمیشہ کے لیے جنت الفردوس عطا فرما۔"
+  },
+  {
+    "start_time": "00:48.0",
+    "end_time": "00:55.0",
+    "arabic": "يا رب إني أرتجي رحماك",
+    "english": "O Lord, I long for Your mercy.",
+    "urdu": "اے میرے رب، مجھے تیری رحمت کی امید ہے۔"
+  },
+  {
+    "start_time": "00:55.0",
+    "end_time": "01:01.0",
+    "arabic": "وأسير في درب الهدى بهداك",
+    "english": "With Your guidance, I walk the path of truth.",
+    "urdu": "تیری رہنمائی سے میں ہدایت کے راستے پر چلتا ہوں۔"
+  },
+  {
+    "start_time": "01:01.0",
+    "end_time": "01:07.0",
+    "arabic": "إن ضاق صدري واستبد بي الألم",
+    "english": "When my heart feels heavy and pain overwhelms me,",
+    "urdu": "جب میرا دل گھبرا جائے اور درد مجھے گھیر لے،"
+  },
+  {
+    "start_time": "01:07.0",
+    "end_time": "01:13.0",
+    "arabic": "فأنت يا ربي رجائي والأمل",
+    "english": "You, my Lord, are my hope and my comfort.",
+    "urdu": "تو ہی اے میرے رب، میری امید اور میرا سہارا ہے۔"
+  },
+  {
+    "start_time": "01:13.0",
+    "end_time": "01:21.0",
+    "arabic": "يا ربي يا سامع الدعاء",
+    "english": "O my Lord, You who hear every prayer,",
+    "urdu": "اے میرے رب، اے دعاؤں کو سننے والے،"
+  },
+  {
+    "start_time": "01:21.0",
+    "end_time": "01:27.0",
+    "arabic": "أنت الملاذ وأنت من نرجو الرضا",
+    "english": "You are our refuge, and from You we seek acceptance.",
+    "urdu": "تو ہی ہماری پناہ ہے، اور ہم تیری رضا کے طلب گار ہیں۔"
+  },
+  {
+    "start_time": "01:27.0",
+    "end_time": "01:33.0",
+    "arabic": "إن أظلمت دنياي أشرق نورك",
+    "english": "When my world grows dark, Your light shines bright.",
+    "urdu": "جب میری دنیا تاریک ہو جاتی ہے، تیرا نور چمک اٹھتا ہے۔"
+  },
+  {
+    "start_time": "01:33.0",
+    "end_time": "01:40.0",
+    "arabic": "وإن ضعفت ففضلك يحيي رجائي",
+    "english": "When I grow weak, Your grace revives my hope.",
+    "urdu": "اور جب میں کمزور پڑ جاتا ہوں، تیرا فضل میری امید پھر جگا دیتا ہے۔"
+  },
+  {
+    "start_time": "01:40.0",
+    "end_time": "01:43.0",
+    "arabic": "يا رب فاغفر لي وارحم ضعفي",
+    "english": "O Lord, forgive me and have mercy on my weakness.",
+    "urdu": "اے میرے رب، مجھے بخش دے اور میری کمزوری پر رحم فرما۔"
+  },
+  {
+    "start_time": "01:43.0",
+    "end_time": "01:49.0",
+    "arabic": "واجعل رضاك يا إلهي هدفي، أنت الرجاء",
+    "english": "Make Your pleasure my goal, O God; You are my hope.",
+    "urdu": "اے میرے معبود، اپنی رضا کو میرا مقصد بنا دے؛ تو ہی میری امید ہے۔"
+  },
+  {
+    "start_time": "01:49.0",
+    "end_time": "01:53.0",
+    "arabic": "وأنت خير معين",
+    "english": "And You are the best One to help.",
+    "urdu": "اور تو ہی بہترین مددگار ہے۔"
+  },
+  {
+    "start_time": "01:53.0",
+    "end_time": "01:58.0",
+    "arabic": "فارزق فؤادي جنة النعيم",
+    "english": "So grant my heart the bliss of Paradise.",
+    "urdu": "پس میرے دل کو جنت النعیم کی نعمتیں عطا فرما۔"
+  }
+]
