@@ -1,0 +1,170 @@
+[
+  {
+    "start_time": "00:10.0",
+    "end_time": "00:12.0",
+    "arabic": "أَحْبَبْتُهَا حُبًّا حَلَالًا صَادِقًا",
+    "english": "I loved her with a sincere love, pure and lawful.",
+    "urdu": "میں نے اس سے سچی، پاکیزہ اور حلال محبت کی۔"
+  },
+  {
+    "start_time": "00:12.0",
+    "end_time": "00:20.0",
+    "arabic": "وَجَعَلْتُ تَقْوَى اللهِ نُورَ جَنَانِي",
+    "english": "I made my devotion to Allah, the light of my heart.",
+    "urdu": "میں نے اللہ کا تقویٰ اپنے دل کا نور بنا لیا۔"
+  },
+  {
+    "start_time": "00:20.0",
+    "end_time": "00:25.0",
+    "arabic": "أَهْوَاهَا لَكِنْ لَا أُرِيدُ حَرَامَهَا",
+    "english": "I love her, but I will not seek what is forbidden.",
+    "urdu": "میں اس سے محبت کرتا ہوں، مگر حرام راستہ اختیار نہیں کرنا چاہتا۔"
+  },
+  {
+    "start_time": "00:25.0",
+    "end_time": "00:30.0",
+    "arabic": "فَالْحُبُّ يَحْلُو فِي رِضَا الرَّحْمَانِ",
+    "english": "Love becomes beautiful when it pleases the Most Merciful.",
+    "urdu": "محبت تب حسین بنتی ہے جب وہ رحمٰن کی رضا کے مطابق ہو۔"
+  },
+  {
+    "start_time": "00:30.0",
+    "end_time": "00:35.0",
+    "arabic": "يَا رَبِّ فَاجْمَعْنَا بِخَيْرٍ دَائِمٍ",
+    "english": "O Lord, unite us in lasting goodness.",
+    "urdu": "اے میرے رب، ہمیں ہمیشہ کی بھلائی کے ساتھ ملا دے۔"
+  },
+  {
+    "start_time": "00:35.0",
+    "end_time": "00:40.0",
+    "arabic": "وَاجْعَلْ لَنَا فِي طَاعَةٍ أَمَانِي",
+    "english": "And let our hopes flourish through obedience to You.",
+    "urdu": "اور ہماری آرزوؤں کو اپنی اطاعت کے ذریعے پورا فرما۔"
+  },
+  {
+    "start_time": "00:40.0",
+    "end_time": "00:46.0",
+    "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
+    "english": "I wish to be united with her in a lawful marriage.",
+    "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
+  },
+  {
+    "start_time": "00:46.0",
+    "end_time": "00:51.0",
+    "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
+    "english": "And I will honor our love with faith.",
+    "urdu": "اور میں ایمان کے ساتھ محبت کے اس عہد کی حفاظت کروں گا۔"
+  },
+  {
+    "start_time": "00:51.0",
+    "end_time": "00:56.0",
+    "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
+    "english": "I wish to be united with her in a lawful marriage.",
+    "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
+  },
+  {
+    "start_time": "00:56.0",
+    "end_time": "01:00.0",
+    "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
+    "english": "And I will honor our love with faith.",
+    "urdu": "اور میں ایمان کے ساتھ محبت کے اس عہد کی حفاظت کروں گا۔"
+  },
+  {
+    "start_time": "01:00.0",
+    "end_time": "01:03.0",
+    "arabic": "لَا أَبْتَغِي دَرْبَ الْغَرَامِ إِذَا غَدَا",
+    "english": "I will not follow the path of romance if it becomes",
+    "urdu": "میں محبت کی اس راہ پر نہیں چلوں گا اگر وہ بن جائے"
+  },
+  {
+    "start_time": "01:03.0",
+    "end_time": "01:11.0",
+    "arabic": "سَبَبًا لِبُعْدِي عَنْ هُدَى الرَّحْمَنِ",
+    "english": "a reason to stray from the guidance of the Most Merciful.",
+    "urdu": "رحمٰن کی ہدایت سے دوری کا سبب۔"
+  },
+  {
+    "start_time": "01:11.0",
+    "end_time": "01:16.0",
+    "arabic": "بَلْ أَرْتَجِي زَوْجًا تَقِيًّا يَجْمَعُنَا",
+    "english": "Instead, I hope for a God-fearing spouse who brings us together.",
+    "urdu": "بلکہ میری آرزو ہے کہ ایک پرہیزگار شریکِ حیات ہمیں ملا دے۔"
+  },
+  {
+    "start_time": "01:16.0",
+    "end_time": "01:21.0",
+    "arabic": "فِي ظِلِّ طَاعَةِ خَالِقِ الْأَكْوَانِ",
+    "english": "Beneath the shelter of obedience to the Creator of all worlds.",
+    "urdu": "کائنات کے خالق کی اطاعت کے سائے تلے۔"
+  },
+  {
+    "start_time": "01:21.0",
+    "end_time": "01:26.0",
+    "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
+    "english": "I wish to be united with her in a lawful marriage.",
+    "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
+  },
+  {
+    "start_time": "01:26.0",
+    "end_time": "01:31.0",
+    "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
+    "english": "And I will honor our love with faith.",
+    "urdu": "اور میں ایمان کے ساتھ محبت کے اس عہد کی حفاظت کروں گا۔"
+  },
+  {
+    "start_time": "01:31.0",
+    "end_time": "01:35.0",
+    "arabic": "مَا الْحُبُّ عَيْبٌ إِنْ تَزَيَّنَ بِالتُّقَى",
+    "english": "Love is not wrong when it is adorned with piety.",
+    "urdu": "محبت کوئی عیب نہیں، اگر اسے تقویٰ سے آراستہ کیا جائے۔"
+  },
+  {
+    "start_time": "01:35.0",
+    "end_time": "01:41.0",
+    "arabic": "وَغَدَا عَلَى نَهْجِ الْهُدَى وَالْإِحْسَانِ",
+    "english": "And follows the path of guidance and goodness.",
+    "urdu": "اور وہ ہدایت اور نیکی کے راستے پر چلے۔"
+  },
+  {
+    "start_time": "01:41.0",
+    "end_time": "01:49.0",
+    "arabic": "وَالْحُبُّ يَسْمُو حِينَ يَحْفَظُ عَهْدَهُ",
+    "english": "Love rises to a higher level when it keeps its promise.",
+    "urdu": "محبت کا مقام بلند ہوتا ہے جب وہ اپنے عہد کو نبھاتی ہے۔"
+  },
+  {
+    "start_time": "01:49.0",
+    "end_time": "01:51.0",
+    "arabic": "وَيَصُونُ قَلْبَيْنِ مِنَ الْعِصْيَانِ",
+    "english": "And protects two hearts from disobedience.",
+    "urdu": "اور دو دلوں کو نافرمانی سے محفوظ رکھتی ہے۔"
+  },
+  {
+    "start_time": "01:51.0",
+    "end_time": "01:57.0",
+    "arabic": "يَا رَبِّ فَاجْمَعْنَا بِخَيْرٍ دَائِمٍ",
+    "english": "O Lord, unite us in lasting goodness.",
+    "urdu": "اے میرے رب، ہمیں ہمیشہ کی بھلائی کے ساتھ ملا دے۔"
+  },
+  {
+    "start_time": "01:57.0",
+    "end_time": "02:02.0",
+    "arabic": "وَاجْعَلْ لَنَا فِي طَاعَةٍ أَمَانِي",
+    "english": "And let our hopes flourish through obedience to You.",
+    "urdu": "اور ہماری آرزوؤں کو اپنی اطاعت کے ذریعے پورا فرما۔"
+  },
+  {
+    "start_time": "02:02.0",
+    "end_time": "02:07.0",
+    "arabic": "إِنِّي أُرِيدُ وِصَالَهَا بِحَلَالِنَا",
+    "english": "I wish to be united with her in a lawful marriage.",
+    "urdu": "میں اس سے حلال نکاح کے ذریعے رشتہ جوڑنا چاہتا ہوں۔"
+  },
+  {
+    "start_time": "02:07.0",
+    "end_time": "02:12.0",
+    "arabic": "وَأَصُونُ عَهْدَ الْحُبِّ بِالْإِيمَانِ",
+    "english": "And I will honor our love with faith.",
+    "urdu": "اور میں ایمان کے ساتھ محبت کے اس عہد کی حفاظت کروں گا۔"
+  }
+]
